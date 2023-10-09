@@ -6,3 +6,5 @@
 ###### H6
 
 Added header tags of 1 to 6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
